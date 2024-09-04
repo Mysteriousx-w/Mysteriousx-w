@@ -4,13 +4,14 @@
 -  兴趣爱好💓：喜欢音乐🎼、运动🏓，喜欢”冲浪“💻。
   
 <div align = "center">    
-<img  src="https://github.com/user-attachments/assets/64a01f29-7b98-40c3-94c7-abd8ff2e6d97" width="30%" />
-<img  src="https://github.com/user-attachments/assets/f77689c2-09c3-4f90-8172-10029d522ef0" width="30%" />
-<img  src="https://github.com/user-attachments/assets/7a7d2a50-3226-4eb4-a8f9-976caf9ee91a" width="30%" />
+<img  src="https://github.com/user-attachments/assets/a43a425c-cbe7-44e1-8ad7-6fb0e63484f0" width="30%" />
+<img  src="https://github.com/user-attachments/assets/a787c889-b833-439d-9225-39369e3a316a" width="30%" />
+<img  src="https://github.com/user-attachments/assets/ffacf087-74eb-40b1-b441-0e0cba08c434" width="30%" />
 </div>
 
 <p>    
-<img  src="https://github.com/user-attachments/assets/c8f1b8a7-ab0e-49fb-ad85-a46466d23141"  width="400"  align="right"  />
+<img  src="https://github.com/user-attachments/assets/a8717bc1-937a-4844-9919-da8c671579f4"  width="400"  align="right"  />
+
 </p>
 <br>
 <br>
@@ -25,9 +26,10 @@
 -  专业知识及技能⌨️：目前我学习了基本的计算机语言Python、C语言、Java，学习了计算机的基础课程，初步掌握了Hadoop、MapReduce、Spark、Hive等大数据计算工具。
   
 <div align = "center">    
-<img  src="https://github.com/user-attachments/assets/ba3381af-4773-42b7-a39b-bdd0e6822f63" width="30%" />
-<img  src="https://github.com/user-attachments/assets/fe4c9ddd-cdd0-40ae-8eef-8733c3d39933" width="30%" />
-<img  src="https://github.com/user-attachments/assets/d191de82-fd32-4867-9ba6-1bd2be37ed19" width="30%" />
+<img  src="https://github.com/user-attachments/assets/966d57e1-114c-491d-80fb-95da3f2595af" width="30%" />
+<img  src="https://github.com/user-attachments/assets/85408d8d-8d3e-42e5-bce5-7a7e81a8ce43" width="30%" />
+<img  src="https://github.com/user-attachments/assets/fecc9fde-c1a6-48a8-94f7-b4157bde1134" width="30%" />
+
 </div>
 
 -  学习兴趣📜：我对数据挖掘、数据分析、大数据计算等方面比较感兴趣。
